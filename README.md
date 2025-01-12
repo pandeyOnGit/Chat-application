@@ -1,2 +1,5 @@
-# Chat-application
-A chat application based on React-Firebase
+<<<<<<< HEAD
+(Your local changes)
+=======
+(Remote changes)
+>>>>>>> commit-hash
